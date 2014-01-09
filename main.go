@@ -2,8 +2,8 @@ package main
 
 import (
 	"code.google.com/p/go.net/websocket"
-	"github.com/kobeld/gochatting/handlers"
-	"github.com/kobeld/gochatting/wscon"
+	"github.com/AsakuraYo/gochatting/handlers"
+	"github.com/AsakuraYo/gochatting/wscon"
 	. "github.com/paulbellamy/mango"
 	"net/http"
 )

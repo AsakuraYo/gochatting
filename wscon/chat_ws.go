@@ -2,7 +2,7 @@ package wscon
 
 import (
 	"code.google.com/p/go.net/websocket"
-	"github.com/kobeld/gochatting/libs"
+	"github.com/AsakuraYo/gochatting/libs"
 	"strings"
 	"time"
 )
